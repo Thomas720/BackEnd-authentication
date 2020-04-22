@@ -10,7 +10,7 @@
 
 - [Heroku - Swagger Documentation](https://lab-10-exp.herokuapp.com/api-docs)
 
-- [Github PR ](https://github.com/Thomas720/express_server/pull/6)
+- [Github PR ](https://github.com/Thomas720/lab-10-authentication/pull/3)
 
 
 
