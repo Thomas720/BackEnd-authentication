@@ -6,11 +6,13 @@
 
 #### Links and Resources
 
+- [Github PR ](https://github.com/Thomas720/lab-10-authentication/pull/3)
+
 - [Heroku App - HomePage](https://lab-10-exp.herokuapp.com/)
 
 - [Heroku - Swagger Documentation](https://lab-10-exp.herokuapp.com/api-docs)
 
-- [Github PR ](https://github.com/Thomas720/lab-10-authentication/pull/3)
+
 
 
 
