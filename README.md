@@ -1,4 +1,4 @@
-# Lab 10 — Authentication
+# Back-End — Authentication
 
 *   In this lab, I’ll be writing and deploying an Express server that implements Basic Authentication. Users should be able to sign up and sign in to your server, with thier user data being safely stored in MongoDB.
 
